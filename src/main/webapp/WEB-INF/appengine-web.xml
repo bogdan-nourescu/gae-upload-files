@@ -4,7 +4,6 @@
     <module>default</module>
     <version>1</version>
     <vm>true</vm>
-    <!--App Config ${app.configSettings} End App COnfig-->
 
 
     <threadsafe>true</threadsafe>
